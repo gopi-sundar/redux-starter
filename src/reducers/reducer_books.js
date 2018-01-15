@@ -1,7 +1,7 @@
 export default function () {
-    return [{ title: "Javascript: good parts" },
-    { title: "Harry Potter" },
-    { title: "Dark Tower" },
-    { title: "Redux" }
+    return [{ title: "Javascript: good parts" ,pages:101},
+    { title: "Harry Potter", pages:39 },
+    { title: "Dark Tower" , pages:85},
+    { title: "Redux", pages:1 }
     ]
 }
